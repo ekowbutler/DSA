@@ -20,3 +20,4 @@ class CSQ_Lib(Employee):
 new_employ = CSQ_Lib("Kofi", "Bono", 900)
 print(new_employ.full_name())
 print(new_employ.email)
+
